@@ -1,5 +1,5 @@
 # EstimatingBlackDeath1665
-A code deveveloped to estimate the total death of the Black Death outbreak in 1664 and allow user inputs 
+A code deveveloped to estimate the total death of the Black Death outbreak in 1665 and allow user inputs 
 
 ## Sources used
 - Two text files containing historical figures of rat populations and population density in the studied area provided by Dr. Turner. 
